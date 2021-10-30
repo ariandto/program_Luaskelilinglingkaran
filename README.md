@@ -76,7 +76,7 @@ while True:
 ```
 4. <b>Tampilan Program<b><p>
 
-- Menu user untuk menghitung luas dan keliling lingkaran dengan (r) atau (d) 
+- Menu user untuk menghitung luas dan keliling lingkaran dengan (r),(d) atau exit (keluar program)
 <p align="center">
 <img src="https://github.com/ariandto/program_Luaskelilinglingkaran/blob/main/pic/sc13.png"/>
 </p>
@@ -100,11 +100,11 @@ while True:
 ```import os
     os.system("cls")
 ```
-- <i>Perintah untuk clear screen setiap blok perintah yang sudah berjalan<i><p>
+- <i>Perintah untuk clear screen setiap blok perintah yang sudah berjalan<p>
 
 - \t adalah  syntax untuk menambah tabulasi atau tab sedangkan \n untuk menambah baris.<p>
 
-- Program ini berjalan dengan perulangan dan percabangan<p>
+- Program ini berjalan dengan perulangan dan percabangan</i><p>
 
 5. <b>Cara kerja program<b>
 - User memasukkan pilihan 1, 2 atau 3<p>
