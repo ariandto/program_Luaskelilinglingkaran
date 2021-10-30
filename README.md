@@ -7,6 +7,11 @@
 <p align="center">
 </p>
 
+- TOOLS
+<b>Visual Studio Code<b><P>
+<b>Python 3.10<b><P>
+<b>Windows 10 with 1 TB HDD 8 GB RAM<b><p>
+
  Rumus Luas Lingkaran phi*r*r atau phi*(d/2)*(d/2)<p>
  Rumus Keliling Lingkaran 2*phi*r atau 2*phi*(d/2)<p>
 
@@ -67,11 +72,29 @@ while True:
                 print("exit.....")
                 break
 ```
+- Tampilan Program yang sudah dipanggil
+
+<p align="center">
+<img src="https://github.com/ariandto/program_Luaskelilinglingkaran/blob/main/pic/sc13.png"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/ariandto/program_Luaskelilinglingkaran/blob/main/pic/sc14.png"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/ariandto/program_Luaskelilinglingkaran/blob/main/pic/sc15.png"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/ariandto/program_Luaskelilinglingkaran/blob/main/pic/sc16.png"/>
+</p>
+
 - <b>Notes<b>
 ```import os
     os.system("cls")
 ```
-Perintah untuk clear screen setiap blok perintah yang sudah berjalan<p>
+<i>Perintah untuk clear screen setiap blok perintah yang sudah berjalan<i><p>
 
 \t adalah  syntax untuk menambah tabulasi atau tab sedangkan \n untuk menambah baris.<p>
 
