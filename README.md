@@ -66,10 +66,21 @@ while True:
         if keluar=="y" or keluar=="Y":
                 print("exit.....")
                 break
-                ```
+```
+- <b>Notes<b>
+```import os
+    os.system("cls")
+```
+- Perintah untuk clear screen setiap blok perintah yang sudah berjalan
 
+\t adalah  syntax untuk menambah tabulasi atau tab sedangkan \n untuk menambah baris.
 
-
+- <b>Cara kerja program<b>
+- 1. User memasukkan pilihan 1, 2 atau 3
+- 2. Ada opsi untuk hitung diameter dengan input d dan jari-jari dengan input r saja. Untuk kasus ini saya permudah user dengan tidak mengurangi konsistensi program
+- 3. Jika program sudah menampilkan luas dan keliling lingkaran makan user akan dihadapkan untuk melanjutkan program (Y,y) atau menghentikan program (N,n)
+- 4. Jika ada kritik dan saran silahkan hubungi saya melalui email ariandto@gmail.com
+- 5. <b>Salam, tiada kata terlambat untuk belajar<b>
 
 
 
