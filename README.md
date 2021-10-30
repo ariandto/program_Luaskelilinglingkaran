@@ -28,7 +28,6 @@ Program ini berjalan apabila user sudah memilih angka 1,2 atau 3 (keluar program
 </p>
 
 3. <b>Source code<b><p>
-
 ```
 while True:
     import os
@@ -36,7 +35,7 @@ while True:
     print("\tProgram Hitung Luas dan Keliling Lingkaran\t")
     print("""
 1. Hitung dengan input nilai jari-jari (r)
-2. Input dengan input diameter (d)
+2. Hitung dengan input diameter (d)
 3. Exit\n""")
     pilih = int(input("\tPlease input your option 1 (r), 2 (d) or 3 for exit: "))
     if pilih==1:
@@ -72,7 +71,7 @@ while True:
         keluar=input("Are you sure???(y/n): ")
         if keluar=="y" or keluar=="Y":
                 print("exit.....")
-                break
+                break```
 ```
 4. <b>Tampilan Program<b><p>
 
