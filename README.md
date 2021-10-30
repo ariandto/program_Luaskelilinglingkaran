@@ -7,10 +7,10 @@
 <p align="center">
 </p>
 
-- Rumus Luas Lingkaran phi*r*r atau phi*(d/2)*(d/2)
-- Rumus Keliling Lingkaran 2*phi*r atau 2*phi*(d/2)
+ Rumus Luas Lingkaran phi*r*r atau phi*(d/2)*(d/2)<p>
+ Rumus Keliling Lingkaran 2*phi*r atau 2*phi*(d/2)<p>
 
-- Program ini berjalan apabila user sudah memilih angka 1,2 atau 3 (keluar program) untuk mulai memanggil program untuk menghitung luas dan keliling lingkaran berdasarkan jari-jari dan diameter lingkaran.
+Program ini berjalan apabila user sudah memilih angka 1,2 atau 3 (keluar program) untuk mulai memanggil program untuk menghitung luas dan keliling lingkaran berdasarkan jari-jari dan diameter lingkaran.<p>
 
 - <b>Flowchart<b><p>
 
@@ -20,7 +20,7 @@
 <img src="https://github.com/ariandto/program_Luaskelilinglingkaran/blob/main/pic/sc12.png"/>
 </p>
 
-- Source kode<p>
+Source kode<p>
 
 ```
 while True:
@@ -71,16 +71,16 @@ while True:
 ```import os
     os.system("cls")
 ```
-- Perintah untuk clear screen setiap blok perintah yang sudah berjalan
+Perintah untuk clear screen setiap blok perintah yang sudah berjalan<p>
 
-\t adalah  syntax untuk menambah tabulasi atau tab sedangkan \n untuk menambah baris.
+\t adalah  syntax untuk menambah tabulasi atau tab sedangkan \n untuk menambah baris.<p>
 
 - <b>Cara kerja program<b>
-- 1. User memasukkan pilihan 1, 2 atau 3
-- 2. Ada opsi untuk hitung diameter dengan input d dan jari-jari dengan input r saja. Untuk kasus ini saya permudah user dengan tidak mengurangi konsistensi program
-- 3. Jika program sudah menampilkan luas dan keliling lingkaran makan user akan dihadapkan untuk melanjutkan program (Y,y) atau menghentikan program (N,n)
-- 4. Jika ada kritik dan saran silahkan hubungi saya melalui email ariandto@gmail.com
-- 5. <b>Salam, tiada kata terlambat untuk belajar<b>
+User memasukkan pilihan 1, 2 atau 3<p>
+Ada opsi untuk hitung diameter dengan input d dan jari-jari dengan input r saja. Untuk kasus ini saya permudah user dengan tidak mengurangi konsistensi program<p>
+Jika program sudah menampilkan luas dan keliling lingkaran makan user akan dihadapkan untuk mengulangi program (Y,y) atau menghentikan program (N,n)<p>
+Jika ada kritik dan saran silahkan hubungi saya melalui email ariandto@gmail.com<p>
+<b>Salam, tiada kata terlambat untuk belajar<b><p>
 
 
 
