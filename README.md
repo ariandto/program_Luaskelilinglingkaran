@@ -38,7 +38,7 @@ while True:
 1. Hitung dengan input nilai jari-jari (r)
 2. Input dengan input diameter (d)
 3. Exit\n""")
-    pilih = int(input("\tPlease input your option 1 (d), 2 (r) or 3 for exit: "))
+    pilih = int(input("\tPlease input your option 1 (r), 2 (d) or 3 for exit: "))
     if pilih==1:
         print("Luas dan Keliling Lingkaran dengan (r)")
         r=float(input("\tmasukkan jari jari lingkaran:"))
@@ -54,7 +54,7 @@ while True:
             print("end program\n")
             break
 
-    if pilih==2:
+    if pilih==2 :
         print("Luas dan Keliling Lingkaran dengan (d)")
         d=float(input("\tmasukkan diameter lingkaran:"))
         phi=3.14
@@ -108,7 +108,8 @@ while True:
 
 5. <b>Cara kerja program<b>
 - User memasukkan pilihan 1, 2 atau 3<p>
-- Ada opsi untuk hitung diameter dengan input d dan jari-jari dengan input r saja. Untuk kasus ini saya permudah user dengan tidak mengurangi konsistensi program<p>
-- Jika program sudah menampilkan luas dan keliling lingkaran makan user akan dihadapkan untuk mengulangi program (Y,y) atau menghentikan program (N,n)<p>
+- Ada opsi untuk hitung diameter dengan input 1 berdasarkan jari jari, input angka 2 berdasarkan diameter atau 3 untuk keluar program<p>
+- Opsi Y/y untuk ya atau opsi N/n untuk tidak<P>
+- Jika program sudah menampilkan luas dan keliling lingkaran makan user akan dihadapkan untuk mengulangi program (Y/y) atau menghentikan program (N/n)<p>
 - Jika ada kritik dan saran silahkan hubungi saya melalui email ariandto@gmail.com<p>
 <b>Salam, tiada kata terlambat untuk belajar<b><p>
