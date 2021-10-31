@@ -20,7 +20,7 @@
  <i>Rumus Luas Lingkaran phi*r*r atau phi*(d/2)*(d/2)<p></i>
  <i>Rumus Keliling Lingkaran 2*phi*r atau 2*phi*(d/2)</p></i>
 
-Program ini berjalan apabila user sudah memilih angka 1,2 atau 3 (keluar program) untuk mulai memanggil program untuk menghitung luas dan keliling lingkaran berdasarkan jari-jari dan diameter lingkaran.<p>
+Program ini berjalan apabila user sudah memilih angka 1,2 atau 3 (keluar program) untuk mulai memanggil program untuk menghitung luas dan keliling lingkaran berdasarkan jari-jari atau diameter lingkaran.<p>
 </p>
 
 2. <b>Flowchart<p></b>
