@@ -1,5 +1,5 @@
 <p align="center">
-<b>Program Luas dan Keliling Lingkaran berdasarkan jari - jari dan diameter<b>
+<b>Program Luas dan Keliling Lingkaran berdasarkan jari - jari dan diameter</b>
 </p>
 <p>
 
@@ -8,14 +8,14 @@
 <p align="center">
 </p>
 
-1. <b>TOOLS<b><p>
+1. <b>TOOLS<p></b>
 <p>
-- <b>Visual Studio Code untuk edit readme<b><P>
-- <b>Python 3.10<b><p>
-- <b>Windows 10 with 1 TB HDD 8 GB RAM<b><p>
-- <b>Microsoft Visual Studio untuk run program<b><p>
-- <b>Microsoft Excel untuk menggambar flowchart<b><p>
-- <b>Paint untuk edit screenshoot<b><p>
+- Visual Studio Code untuk edit readme<P>
+- Python 3.10<p>
+- Windows 10 with 1 TB HDD 8 GB RAM<p>
+- Microsoft Visual Studio untuk run program<p>
+- Microsoft Excel untuk menggambar flowchart<p>
+- Paint untuk edit screenshoot<p>
 
  Rumus Luas Lingkaran phi*r*r atau phi*(d/2)*(d/2)<p>
  Rumus Keliling Lingkaran 2*phi*r atau 2*phi*(d/2)<p>
@@ -23,15 +23,15 @@
 Program ini berjalan apabila user sudah memilih angka 1,2 atau 3 (keluar program) untuk mulai memanggil program untuk menghitung luas dan keliling lingkaran berdasarkan jari-jari dan diameter lingkaran.<p>
 </p>
 
-2. <b>Flowchart<b><p>
+2. <b>Flowchart<p></b>
 
-<b>Flowchart atau cara kerja pemanggilan program sebagai berikut:<b><p>
+Flowchart atau cara kerja pemanggilan program sebagai berikut:<p>
 
 <p align="center">
 <img src="https://github.com/ariandto/program_Luaskelilinglingkaran/blob/main/pic/sc12.png"/>
 </p>
 
-3. <b>Source code<b><p>
+3. <b>Source code<p></b>
 ```
 while True:
     import os
@@ -82,7 +82,7 @@ while True:
                 print("exit.....")
                 break
 ```
-4. <b>Tampilan Program<b><p>
+4. <b>Tampilan Program<p></b>
 
 - Menu user untuk menghitung luas dan keliling lingkaran dengan (r),(d) atau exit (keluar program)
 <p align="center">
@@ -109,7 +109,14 @@ while True:
 <img src="https://github.com/ariandto/program_Luaskelilinglingkaran/blob/main/pic/sc17.png"/>
 </p>
 
-- <b>Notes<b><p>
+5. <b>Cara kerja program<p></b>
+- User memasukkan pilihan 1, 2 atau 3<p>
+- Ada opsi untuk hitung diameter dengan input 1 berdasarkan jari jari, input angka 2 berdasarkan diameter atau 3 untuk keluar program<p>
+- Opsi Y/y untuk ya atau opsi N/n untuk tidak<P>
+- Jika program sudah menampilkan luas dan keliling lingkaran makan user akan dihadapkan untuk mengulangi program (Y/y) atau menghentikan program (N/n)<p>
+- Jika ada kritik dan saran silahkan hubungi saya melalui email ariandto@gmail.com<p>
+
+- Notes<p>
 ```import os
     os.system("cls")
 ```
@@ -119,10 +126,8 @@ while True:
 
 - Program ini berjalan dengan perulangan dan percabangan</i><p>
 
-5. <b>Cara kerja program<b>
-- User memasukkan pilihan 1, 2 atau 3<p>
-- Ada opsi untuk hitung diameter dengan input 1 berdasarkan jari jari, input angka 2 berdasarkan diameter atau 3 untuk keluar program<p>
-- Opsi Y/y untuk ya atau opsi N/n untuk tidak<P>
-- Jika program sudah menampilkan luas dan keliling lingkaran makan user akan dihadapkan untuk mengulangi program (Y/y) atau menghentikan program (N/n)<p>
-- Jika ada kritik dan saran silahkan hubungi saya melalui email ariandto@gmail.com<p>
-<b>Salam, tiada kata terlambat untuk belajar<b><p>
+
+
+
+
+Salam, tiada kata terlambat untuk belajar<p>
