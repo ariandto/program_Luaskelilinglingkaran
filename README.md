@@ -120,7 +120,7 @@ while True:
 ```import os
     os.system("cls")
 ```
-adalah erintah untuk clear screen setiap blok perintah yang sudah berjalan</p>
+adalah perintah untuk clear screen setiap blok perintah yang sudah berjalan</p>
 
 - \t adalah  syntax untuk menambah tabulasi atau tab sedangkan \n untuk menambah baris.<p>
 
