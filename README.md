@@ -1,9 +1,10 @@
 <p align="center">
 <b>Program Luas dan Keliling Lingkaran berdasarkan jari - jari dan diameter<b>
 </p>
+<p>
 
 <p align="center">
-<img src="https://github.com/ariandto/program_Luaskelilinglingkaran/blob/main/pic/sc11.png"/>
+<img src="https://github.com/ariandto/program_Luaskelilinglingkaran/blob/main/pic/sc13.png"/>
 <p align="center">
 </p>
 
@@ -34,7 +35,7 @@ while True:
     os.system("cls")
     print("\tProgram Hitung Luas dan Keliling Lingkaran\t")
     print("""
-1. Hitung dengan input nilai jari-jari (r)
+1. Hitung dengan input jari-jari (r)
 2. Hitung dengan input diameter (d)
 3. Exit\n""")
     pilih = int(input("\tPlease input your option 1 (r), 2 (d) or 3 for exit: "))
@@ -71,7 +72,7 @@ while True:
         keluar=input("Are you sure???(y/n): ")
         if keluar=="y" or keluar=="Y":
                 print("exit.....")
-                break```
+                break
 ```
 4. <b>Tampilan Program<b><p>
 
@@ -93,6 +94,11 @@ while True:
 - Opsi input 3 untuk exit program
 <p align="center">
 <img src="https://github.com/ariandto/program_Luaskelilinglingkaran/blob/main/pic/sc16.png"/>
+</p>
+
+- Ketika user tidak ingin melanjutkan program (n)
+<p align="center">
+<img src="https://github.com/ariandto/program_Luaskelilinglingkaran/blob/main/pic/sc17.png"/>
 </p>
 
 - <b>Notes<b><p>
