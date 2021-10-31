@@ -12,13 +12,13 @@
 <p>
 - Visual Studio Code untuk edit readme<P>
 - Python 3.10<p>
-- Windows 10 with 1 TB HDD 8 GB RAM<p>
+- Windows 10 with 1 TB HDD 8 GB RAM (equipment recommended)<p>
 - Microsoft Visual Studio untuk run program<p>
 - Microsoft Excel untuk menggambar flowchart<p>
 - Paint untuk edit screenshoot<p>
 
- Rumus Luas Lingkaran phi*r*r atau phi*(d/2)*(d/2)<p>
- Rumus Keliling Lingkaran 2*phi*r atau 2*phi*(d/2)<p>
+ <i>Rumus Luas Lingkaran phi*r*r atau phi*(d/2)*(d/2)<p></i>
+ <i>Rumus Keliling Lingkaran 2*phi*r atau 2*phi*(d/2)</p></i>
 
 Program ini berjalan apabila user sudah memilih angka 1,2 atau 3 (keluar program) untuk mulai memanggil program untuk menghitung luas dan keliling lingkaran berdasarkan jari-jari dan diameter lingkaran.<p>
 </p>
@@ -111,7 +111,7 @@ while True:
 
 5. <b>Cara kerja program<p></b>
 - User memasukkan pilihan 1, 2 atau 3<p>
-- Ada opsi untuk hitung diameter dengan input 1 berdasarkan jari jari, input angka 2 berdasarkan diameter atau 3 untuk keluar program<p>
+- Ada opsi untuk hitung L dan K dengan input angka 1 berdasarkan jari jari, input angka 2 berdasarkan diameter atau 3 untuk keluar program<p>
 - Opsi Y/y untuk ya atau opsi N/n untuk tidak<P>
 - Jika program sudah menampilkan luas dan keliling lingkaran makan user akan dihadapkan untuk mengulangi program (Y/y) atau menghentikan program (N/n)<p>
 - Jika ada kritik dan saran silahkan hubungi saya melalui email ariandto@gmail.com<p>
@@ -120,7 +120,7 @@ while True:
 ```import os
     os.system("cls")
 ```
-- <i>Perintah untuk clear screen setiap blok perintah yang sudah berjalan<p>
+adalah erintah untuk clear screen setiap blok perintah yang sudah berjalan</p>
 
 - \t adalah  syntax untuk menambah tabulasi atau tab sedangkan \n untuk menambah baris.<p>
 
