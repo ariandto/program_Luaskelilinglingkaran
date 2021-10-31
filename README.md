@@ -110,10 +110,10 @@ while True:
 </p>
 
 5. <b>Cara kerja program<p></b>
-- User memasukkan pilihan 1, 2 atau 3<p>
-- Ada opsi untuk hitung L dan K dengan input angka 1 berdasarkan jari jari, input angka 2 berdasarkan diameter atau 3 untuk keluar program<p>
+- User memasukkan pilihan untuk input angka 1, 2 atau 3<p>
+- Ada opsi untuk hitung L dan K dengan input angka 1 berdasarkan jari jari, input angka 2 berdasarkan diameter atau input angka 3 untuk keluar program<p>
 - Opsi Y/y untuk ya atau opsi N/n untuk tidak<P>
-- Jika program sudah menampilkan luas dan keliling lingkaran makan user akan dihadapkan untuk mengulangi program (Y/y) atau menghentikan program (N/n)<p>
+- Jika program sudah menampilkan luas dan keliling lingkaran maka user akan dihadapkan untuk memilih apakah akan mengulangi program (Y/y) atau menghentikan program (N/n)<p>
 - Jika ada kritik dan saran silahkan hubungi saya melalui email ariandto@gmail.com<p>
 
 - Notes<p>
