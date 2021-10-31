@@ -9,10 +9,13 @@
 </p>
 
 1. <b>TOOLS<b><p>
-- <b>Visual Studio Code<b><P>
+<p>
+- <b>Visual Studio Code untuk edit readme<b><P>
 - <b>Python 3.10<b><p>
 - <b>Windows 10 with 1 TB HDD 8 GB RAM<b><p>
-- <b>Microsoft Visual Studio<b><p>
+- <b>Microsoft Visual Studio untuk run program<b><p>
+- <b>Microsoft Excel untuk menggambar flowchart<b><p>
+- <b>Paint untuk edit screenshoot<b><p>
 
  Rumus Luas Lingkaran phi*r*r atau phi*(d/2)*(d/2)<p>
  Rumus Keliling Lingkaran 2*phi*r atau 2*phi*(d/2)<p>
@@ -39,9 +42,12 @@ while True:
 2. Hitung dengan input diameter (d)
 3. Exit\n""")
     pilih = int(input("\tPlease input your option 1 (r), 2 (d) or 3 for exit: "))
+    print()
     if pilih==1:
         print("Luas dan Keliling Lingkaran dengan (r)")
-        r=float(input("\tmasukkan jari jari lingkaran:"))
+        print()
+        r=float(input("input (r) lingkaran=> "))
+        print()
         phi=3.14
         L=phi*(r*r)
         K=2*phi*r
@@ -56,7 +62,9 @@ while True:
 
     if pilih==2 :
         print("Luas dan Keliling Lingkaran dengan (d)")
-        d=float(input("\tmasukkan diameter lingkaran:"))
+        print()
+        d=float(input("input (d) lingkaran=> "))
+        print()
         phi=3.14
         dl=phi*(d/2*d/2)
         dk=2*phi*(d/2)
